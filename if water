@@ -1,0 +1,26 @@
+# num=int(input("enter the water"))
+# if  num<=1:
+#     print("paani kam h")
+# elif num<=10:
+#     print("no need")
+# else:
+
+
+# year= int(input("enter the numner"))
+# if      year%4==0:
+#         print("leap year hai")
+# else:
+#     print("leap year nhi hai")
+
+# a=5
+# b=6
+# print(a and b)
+
+
+# i=0
+# while i<=10:
+#     if i==4:
+#         print("skeeped )
+#        continue
+#     print(i)
+# i=i+1
